@@ -39,7 +39,7 @@ More projects on [aryazilimdanismanlik.com](https://aryazilimdanismanlik.com).
 
 **Backend & platform engineering** on a multi-tenant .NET and SQL Server service platform:
 
-- LLM-based services in production — log classification and a validation layer that audits another system's output before it reaches customers
+- LLM-based services — log classification in production, and a validation layer (in development) that audits another system's output before it reaches customers
 - An internal service monitoring platform, built end to end (React, Node.js, .NET, SQL Server)
 - CI/CD with automated semantic versioning and changelog generation — releases went from hours of manual work to an automated run of under 20 minutes
 
