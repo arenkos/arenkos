@@ -26,10 +26,9 @@ Coding agents are my primary tool across planning, implementation, testing, refa
 | [**AR Code Editor**](https://code.aryazilimdanismanlik.com) | Browser-based code editor with an integrated AI agent. Open a local project or connect a GitHub repo; editing and builds run server-side, so it works from anywhere. | JavaScript, Node.js, LLM APIs |
 | [**CVision**](https://cvision.aryazilimdanismanlik.com) | CV platform with LLM-backed parsing of uploaded CVs, translation, cover-letter generation and photo enhancement. | Python, JavaScript, LLM APIs |
 | [**Permio**](https://permio.app) | Crypto trading platform: backtesting engine over 4 years of market data and automated strategy execution against the Binance API, with native mobile clients. | Python, Swift, Kotlin |
-| [**Yönetil.io**](https://yonetili.com) | Multi-tenant property management platform: dues accounting, announcements and resident communication. | PHP, JavaScript, SQL |
+| [**Yönetil.io**](https://yonetilio.com) | Multi-tenant property management platform: dues accounting, announcements and resident communication. | PHP, JavaScript, SQL |
 | [**QAR Menu**](https://qarmenu.shop) | QR ordering and menu platform for cafés and restaurants. | PHP, JavaScript, SQL |
 | [**AR Haber**](https://armedia.live) | News platform with web and mobile clients, fed by an automated n8n pipeline that generates video with Gemini, Google TTS and fal.ai and publishes to Instagram, Facebook and YouTube Shorts. | n8n, Swift, JavaScript |
-| **Finsave** | Fintech mobile app in development at Istanbul Medeniyet University Technopark. | Mobile |
 | [**biofol.io**](https://biofol.io/arsoft) | Link management and short-link system I built and run. | PHP, JavaScript |
 
 More projects on [aryazilimdanismanlik.com](https://aryazilimdanismanlik.com).
